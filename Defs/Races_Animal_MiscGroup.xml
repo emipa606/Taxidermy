@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <DesignatorDropdownGroupDef>
+    <defName>TaxidermyThrumboGroup</defName>
+  </DesignatorDropdownGroupDef>
+  <ThingDef ParentName="TaxidermyBase" Name="TaxidermyThrumboBase" Abstract="True">
+    <label>stuffed thrumbo</label>
+    <description>A stuffed thrumbo.</description>
+    <designatorDropdown>TaxidermyThrumboGroup</designatorDropdown>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <texPath>Thrumbo/Thrumbo</texPath>
+      <drawSize>4.8</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>150</MaxHitPoints>
+      <Mass>15</Mass>
+      <Beauty>150</Beauty>
+      <WorkToBuild>5000</WorkToBuild>
+    </statBases>
+    <size>(2,2)</size>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyThrumboBase">
+    <defName>TaxidermyThrumbo</defName>
+    <costList>
+      <Leather_Thrumbo>150</Leather_Thrumbo>
+      <WoodLog>75</WoodLog>
+      <ThrumboHorn>1</ThrumboHorn>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyThrumboBase">
+    <defName>TaxidermyThrumboCorpse</defName>
+    <costList>
+      <Corpse_Thrumbo>1</Corpse_Thrumbo>
+      <WoodLog>75</WoodLog>
+    </costList>
+  </ThingDef>
+  <DesignatorDropdownGroupDef>
+    <defName>TaxidermyCobraGroup</defName>
+  </DesignatorDropdownGroupDef>
+  <ThingDef ParentName="TaxidermyBase" Name="TaxidermyCobraBase" Abstract="True">
+    <label>stuffed cobra</label>
+    <description>A stuffed cobra.</description>
+    <designatorDropdown>TaxidermyCobraGroup</designatorDropdown>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <texPath>Cobra/Cobra</texPath>
+      <drawSize>1.5</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>2.5</Mass>
+      <Beauty>25</Beauty>
+      <WorkToBuild>3500</WorkToBuild>
+    </statBases>
+    <size>(1,1)</size>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyCobraBase">
+    <defName>TaxidermyCobra</defName>
+    <costList>
+      <Leather_Lizard>50</Leather_Lizard>
+      <WoodLog>15</WoodLog>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyCobraBase">
+    <defName>TaxidermyCobraCorpse</defName>
+    <costList>
+      <Corpse_Cobra>1</Corpse_Cobra>
+      <WoodLog>15</WoodLog>
+    </costList>
+  </ThingDef>
+  <DesignatorDropdownGroupDef>
+    <defName>TaxidermyTortoiseGroup</defName>
+  </DesignatorDropdownGroupDef>
+  <ThingDef ParentName="TaxidermyBase" Name="TaxidermyTortoiseBase" Abstract="True">
+    <label>stuffed tortoise</label>
+    <description>A stuffed tortoise.</description>
+    <designatorDropdown>TaxidermyTortoiseGroup</designatorDropdown>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <texPath>Tortoise/Tortoise</texPath>
+      <drawSize>1.5</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>2.5</Mass>
+      <Beauty>25</Beauty>
+      <WorkToBuild>3500</WorkToBuild>
+    </statBases>
+    <size>(1,1)</size>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyTortoiseBase">
+    <defName>TaxidermyTortoise</defName>
+    <costList>
+      <Leather_Lizard>50</Leather_Lizard>
+      <WoodLog>15</WoodLog>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyTortoiseBase">
+    <defName>TaxidermyTortoiseCorpse</defName>
+    <costList>
+      <Corpse_Tortoise>1</Corpse_Tortoise>
+      <WoodLog>15</WoodLog>
+    </costList>
+  </ThingDef>
+  <DesignatorDropdownGroupDef>
+    <defName>TaxidermyAlphabeaverGroup</defName>
+  </DesignatorDropdownGroupDef>
+  <ThingDef ParentName="TaxidermyBase" Name="TaxidermyAlphabeaverBase" Abstract="True">
+    <label>stuffed alpha beaver</label>
+    <description>A stuffed alpha beaver.</description>
+    <designatorDropdown>TaxidermyAlphabeaverGroup</designatorDropdown>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <texPath>Beaver/Beaver</texPath>
+      <drawSize>1.5</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>90</MaxHitPoints>
+      <Mass>5</Mass>
+      <Beauty>50</Beauty>
+      <WorkToBuild>4000</WorkToBuild>
+    </statBases>
+    <size>(1,1)</size>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyAlphabeaverBase">
+    <defName>TaxidermyAlphabeaver</defName>
+    <costList>
+      <Leather_Light>100</Leather_Light>
+      <WoodLog>25</WoodLog>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyAlphabeaverBase">
+    <defName>TaxidermyAlphabeaverCorpse</defName>
+    <costList>
+      <Corpse_Alphabeaver>1</Corpse_Alphabeaver>
+      <WoodLog>25</WoodLog>
+    </costList>
+  </ThingDef>
+</Defs>

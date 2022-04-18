@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <DesignatorDropdownGroupDef>
+    <defName>TaxidermyWargGroup</defName>
+  </DesignatorDropdownGroupDef>
+  <ThingDef ParentName="TaxidermyBase" Name="TaxidermyWargBase" Abstract="True">
+    <label>stuffed warg</label>
+    <description>A stuffed warg.</description>
+    <designatorDropdown>TaxidermyWargGroup</designatorDropdown>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <texPath>Warg/Warg</texPath>
+      <drawSize>2.05</drawSize>
+      <color>(123,104,89)</color>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>90</MaxHitPoints>
+      <Mass>5</Mass>
+      <Beauty>50</Beauty>
+      <WorkToBuild>4000</WorkToBuild>
+    </statBases>
+    <size>(1,2)</size>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyWargBase">
+    <defName>TaxidermyWarg</defName>
+    <costList>
+      <Leather_Wolf>100</Leather_Wolf>
+      <WoodLog>25</WoodLog>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyWargBase">
+    <defName>TaxidermyWargCorpse</defName>
+    <costList>
+      <Corpse_Warg>1</Corpse_Warg>
+      <WoodLog>25</WoodLog>
+    </costList>
+  </ThingDef>
+</Defs>

@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <DesignatorDropdownGroupDef>
+    <defName>TaxidermySheepGroup</defName>
+  </DesignatorDropdownGroupDef>
+  <ThingDef ParentName="TaxidermyBase" Name="TaxidermySheepBase" Abstract="True">
+    <label>stuffed sheep</label>
+    <description>A stuffed sheep.</description>
+    <designatorDropdown>TaxidermySheepGroup</designatorDropdown>
+    <graphicData>
+      <graphicClass>Graphic_Random</graphicClass>
+      <texPath>Sheep</texPath>
+      <drawSize>1.25</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>4</Mass>
+      <Beauty>35</Beauty>
+      <WorkToBuild>3700</WorkToBuild>
+    </statBases>
+    <size>(1,2)</size>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermySheepBase">
+    <defName>TaxidermySheep</defName>
+    <costList>
+      <Leather_Plain>75</Leather_Plain>
+      <WoodLog>25</WoodLog>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermySheepBase">
+    <defName>TaxidermySheepCorpse</defName>
+    <costList>
+      <Corpse_Sheep>1</Corpse_Sheep>
+      <WoodLog>25</WoodLog>
+    </costList>
+  </ThingDef>
+  <DesignatorDropdownGroupDef>
+    <defName>TaxidermyAlpacaGroup</defName>
+  </DesignatorDropdownGroupDef>
+  <ThingDef ParentName="TaxidermyBase" Name="TaxidermyAlpacaBase" Abstract="True">
+    <label>stuffed alpaca</label>
+    <description>A stuffed alpaca.</description>
+    <designatorDropdown>TaxidermyAlpacaGroup</designatorDropdown>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <texPath>Alpaca/Alpaca</texPath>
+      <drawSize>2.2</drawSize>
+      <color>(180,148,109)</color>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>90</MaxHitPoints>
+      <Mass>5</Mass>
+      <Beauty>50</Beauty>
+      <WorkToBuild>4000</WorkToBuild>
+    </statBases>
+    <size>(1,2)</size>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyAlpacaBase">
+    <defName>TaxidermyAlpaca</defName>
+    <costList>
+      <Leather_Camel>100</Leather_Camel>
+      <WoodLog>25</WoodLog>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyAlpacaBase">
+    <defName>TaxidermyAlpacaCorpse</defName>
+    <costList>
+      <Corpse_Alpaca>1</Corpse_Alpaca>
+      <WoodLog>25</WoodLog>
+    </costList>
+  </ThingDef>
+  <DesignatorDropdownGroupDef>
+    <defName>TaxidermyMegaslothGroup</defName>
+  </DesignatorDropdownGroupDef>
+  <ThingDef ParentName="TaxidermyBase" Name="TaxidermyMegaslothBase" Abstract="True">
+    <label>stuffed megasloth</label>
+    <description>A stuffed megasloth.</description>
+    <designatorDropdown>TaxidermyMegaslothGroup</designatorDropdown>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <texPath>Megasloth/Megasloth</texPath>
+      <drawSize>3.8</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>120</MaxHitPoints>
+      <Mass>10</Mass>
+      <Beauty>75</Beauty>
+      <WorkToBuild>4500</WorkToBuild>
+    </statBases>
+    <size>(2,2)</size>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyMegaslothBase">
+    <defName>TaxidermyMegasloth</defName>
+    <costList>
+      <Leather_Heavy>150</Leather_Heavy>
+      <WoodLog>50</WoodLog>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyMegaslothBase">
+    <defName>TaxidermyMegaslothCorpse</defName>
+    <costList>
+      <Corpse_Megasloth>1</Corpse_Megasloth>
+      <WoodLog>50</WoodLog>
+    </costList>
+  </ThingDef>
+  <DesignatorDropdownGroupDef>
+    <defName>TaxidermyCapybaraGroup</defName>
+  </DesignatorDropdownGroupDef>
+  <ThingDef ParentName="TaxidermyBase" Name="TaxidermyCapybaraBase" Abstract="True">
+    <label>stuffed capybara</label>
+    <description>A stuffed capybara.</description>
+    <designatorDropdown>TaxidermyCapybaraGroup</designatorDropdown>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <texPath>Capybara/Capybara</texPath>
+      <drawSize>1.5</drawSize>
+      <color>(109,84,49)</color>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>90</MaxHitPoints>
+      <Mass>5</Mass>
+      <Beauty>50</Beauty>
+      <WorkToBuild>4000</WorkToBuild>
+    </statBases>
+    <size>(1,1)</size>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyCapybaraBase">
+    <defName>TaxidermyCapybara</defName>
+    <costList>
+      <Leather_Light>100</Leather_Light>
+      <WoodLog>25</WoodLog>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyCapybaraBase">
+    <defName>TaxidermyCapybaraCorpse</defName>
+    <costList>
+      <Corpse_Capybara>1</Corpse_Capybara>
+      <WoodLog>25</WoodLog>
+    </costList>
+  </ThingDef>
+</Defs>

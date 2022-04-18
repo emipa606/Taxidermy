@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <DesignatorDropdownGroupDef>
+    <defName>TaxidermyWolf_TimberGroup</defName>
+  </DesignatorDropdownGroupDef>
+  <ThingDef ParentName="TaxidermyBase" Name="TaxidermyWolf_TimberBase" Abstract="True">
+    <label>stuffed timber wolf</label>
+    <description>A stuffed timber wolf.</description>
+    <designatorDropdown>TaxidermyWolf_TimberGroup</designatorDropdown>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <texPath>WolfTimber/WolfTimber</texPath>
+      <drawSize>1.95</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>90</MaxHitPoints>
+      <Mass>5</Mass>
+      <Beauty>50</Beauty>
+      <WorkToBuild>4000</WorkToBuild>
+    </statBases>
+    <size>(1,2)</size>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyWolf_TimberBase">
+    <defName>TaxidermyWolf_Timber</defName>
+    <costList>
+      <Leather_Wolf>100</Leather_Wolf>
+      <WoodLog>25</WoodLog>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyWolf_TimberBase">
+    <defName>TaxidermyWolf_TimberCorpse</defName>
+    <costList>
+      <Corpse_Wolf_Timber>1</Corpse_Wolf_Timber>
+      <WoodLog>25</WoodLog>
+    </costList>
+  </ThingDef>
+  <DesignatorDropdownGroupDef>
+    <defName>TaxidermyWolf_ArcticGroup</defName>
+  </DesignatorDropdownGroupDef>
+  <ThingDef ParentName="TaxidermyBase" Name="TaxidermyWolf_ArcticBase" Abstract="True">
+    <label>stuffed arctic wolf</label>
+    <description>A stuffed arctic wolf.</description>
+    <designatorDropdown>TaxidermyWolf_ArcticGroup</designatorDropdown>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <texPath>WolfArctic/WolfArctic</texPath>
+      <drawSize>1.95</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>90</MaxHitPoints>
+      <Mass>5</Mass>
+      <Beauty>50</Beauty>
+      <WorkToBuild>4000</WorkToBuild>
+    </statBases>
+    <size>(1,2)</size>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyWolf_ArcticBase">
+    <defName>TaxidermyWolf_Arctic</defName>
+    <costList>
+      <Leather_Wolf>100</Leather_Wolf>
+      <WoodLog>25</WoodLog>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyWolf_ArcticBase">
+    <defName>TaxidermyWolf_ArcticCorpse</defName>
+    <costList>
+      <Corpse_Wolf_Arctic>1</Corpse_Wolf_Arctic>
+      <WoodLog>25</WoodLog>
+    </costList>
+  </ThingDef>
+  <DesignatorDropdownGroupDef>
+    <defName>TaxidermyFox_FennecGroup</defName>
+  </DesignatorDropdownGroupDef>
+  <ThingDef ParentName="TaxidermyBase" Name="TaxidermyFox_FennecBase" Abstract="True">
+    <label>stuffed fennec fox</label>
+    <description>A stuffed fennec fox.</description>
+    <designatorDropdown>TaxidermyFox_FennecGroup</designatorDropdown>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <texPath>FoxFennec/FoxFennec</texPath>
+      <drawSize>1.45</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>90</MaxHitPoints>
+      <Mass>5</Mass>
+      <Beauty>50</Beauty>
+      <WorkToBuild>4000</WorkToBuild>
+    </statBases>
+    <size>(1,2)</size>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyFox_FennecBase">
+    <defName>TaxidermyFox_Fennec</defName>
+    <costList>
+      <Leather_Fox>100</Leather_Fox>
+      <WoodLog>25</WoodLog>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyFox_FennecBase">
+    <defName>TaxidermyFox_FennecCorpse</defName>
+    <costList>
+      <Corpse_Fox_Fennec>1</Corpse_Fox_Fennec>
+      <WoodLog>25</WoodLog>
+    </costList>
+  </ThingDef>
+  <DesignatorDropdownGroupDef>
+    <defName>TaxidermyFox_RedGroup</defName>
+  </DesignatorDropdownGroupDef>
+  <ThingDef ParentName="TaxidermyBase" Name="TaxidermyFox_RedBase" Abstract="True">
+    <label>stuffed red fox</label>
+    <description>A stuffed red fox.</description>
+    <designatorDropdown>TaxidermyFox_RedGroup</designatorDropdown>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <texPath>FoxRed/FoxRed</texPath>
+      <drawSize>1.68</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>90</MaxHitPoints>
+      <Mass>5</Mass>
+      <Beauty>50</Beauty>
+      <WorkToBuild>4000</WorkToBuild>
+    </statBases>
+    <size>(1,2)</size>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyFox_RedBase">
+    <defName>TaxidermyFox_Red</defName>
+    <costList>
+      <Leather_Fox>100</Leather_Fox>
+      <WoodLog>25</WoodLog>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyFox_RedBase">
+    <defName>TaxidermyFox_RedCorpse</defName>
+    <costList>
+      <Corpse_Fox_Red>1</Corpse_Fox_Red>
+      <WoodLog>25</WoodLog>
+    </costList>
+  </ThingDef>
+  <DesignatorDropdownGroupDef>
+    <defName>TaxidermyFox_ArcticGroup</defName>
+  </DesignatorDropdownGroupDef>
+  <ThingDef ParentName="TaxidermyBase" Name="TaxidermyFox_ArcticBase" Abstract="True">
+    <label>stuffed arctic fox</label>
+    <description>A stuffed arctic fox.</description>
+    <designatorDropdown>TaxidermyFox_ArcticGroup</designatorDropdown>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <texPath>FoxArctic/FoxArctic</texPath>
+      <drawSize>1.75</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>90</MaxHitPoints>
+      <Mass>5</Mass>
+      <Beauty>50</Beauty>
+      <WorkToBuild>4000</WorkToBuild>
+    </statBases>
+    <size>(1,2)</size>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyFox_ArcticBase">
+    <defName>TaxidermyFox_Arctic</defName>
+    <costList>
+      <Leather_Fox>100</Leather_Fox>
+      <WoodLog>25</WoodLog>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyFox_ArcticBase">
+    <defName>TaxidermyFox_ArcticCorpse</defName>
+    <costList>
+      <Corpse_Fox_Arctic>1</Corpse_Fox_Arctic>
+      <WoodLog>25</WoodLog>
+    </costList>
+  </ThingDef>
+</Defs>

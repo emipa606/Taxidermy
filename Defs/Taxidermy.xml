@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ArtableFurnitureBase" Name="TaxidermyBase" Abstract="True">
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <pathCost>70</pathCost>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <Flammability>.5</Flammability>
+      <SellPriceFactor>1.10</SellPriceFactor>
+    </statBases>
+    <fillPercent>0.35</fillPercent>
+    <rotatable>false</rotatable>
+    <comps>
+      <li Class="CompProperties_Art">
+        <canBeEnjoyedAsArt>true</canBeEnjoyedAsArt>
+      </li>
+    </comps>
+    <building>
+      <ai_chillDestination>true</ai_chillDestination>
+      <isInert>true</isInert>
+    </building>
+    <designationCategory>Taxidermy</designationCategory>
+    <researchPrerequisites>
+      <li>CarpetMaking</li>
+    </researchPrerequisites>
+  </ThingDef>
+</Defs>

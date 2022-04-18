@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <DesignatorDropdownGroupDef>
+    <defName>TaxidermyOstrichGroup</defName>
+  </DesignatorDropdownGroupDef>
+  <ThingDef ParentName="TaxidermyBase" Name="TaxidermyOstrichBase" Abstract="True">
+    <label>stuffed ostrich</label>
+    <description>A stuffed ostrich.</description>
+    <designatorDropdown>TaxidermyOstrichGroup</designatorDropdown>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <texPath>Ostrich/Ostrich</texPath>
+      <drawSize>1.8</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>90</MaxHitPoints>
+      <Mass>5</Mass>
+      <Beauty>50</Beauty>
+      <WorkToBuild>4000</WorkToBuild>
+    </statBases>
+    <size>(2,1)</size>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyOstrichBase">
+    <defName>TaxidermyOstrich</defName>
+    <costList>
+      <Leather_Bird>100</Leather_Bird>
+      <WoodLog>25</WoodLog>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyOstrichBase">
+    <defName>TaxidermyOstrichCorpse</defName>
+    <costList>
+      <Corpse_Ostrich>1</Corpse_Ostrich>
+      <WoodLog>25</WoodLog>
+    </costList>
+  </ThingDef>
+  <DesignatorDropdownGroupDef>
+    <defName>TaxidermyEmuGroup</defName>
+  </DesignatorDropdownGroupDef>
+  <ThingDef ParentName="TaxidermyBase" Name="TaxidermyEmuBase" Abstract="True">
+    <label>stuffed emu</label>
+    <description>A stuffed emu.</description>
+    <designatorDropdown>TaxidermyEmuGroup</designatorDropdown>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <texPath>Emu/Emu</texPath>
+      <drawSize>1.6</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>90</MaxHitPoints>
+      <Mass>5</Mass>
+      <Beauty>50</Beauty>
+      <WorkToBuild>4000</WorkToBuild>
+    </statBases>
+    <size>(1,2)</size>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyEmuBase">
+    <defName>TaxidermyEmu</defName>
+    <costList>
+      <Leather_Bird>100</Leather_Bird>
+      <WoodLog>25</WoodLog>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyEmuBase">
+    <defName>TaxidermyEmuCorpse</defName>
+    <costList>
+      <Corpse_Emu>1</Corpse_Emu>
+      <WoodLog>25</WoodLog>
+    </costList>
+  </ThingDef>
+  <DesignatorDropdownGroupDef>
+    <defName>TaxidermyCassowaryGroup</defName>
+  </DesignatorDropdownGroupDef>
+  <ThingDef ParentName="TaxidermyBase" Name="TaxidermyCassowaryBase" Abstract="True">
+    <label>stuffed cassowary</label>
+    <description>A stuffed cassowary.</description>
+    <designatorDropdown>TaxidermyCassowaryGroup</designatorDropdown>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <texPath>Cassowary/Cassowary</texPath>
+      <drawSize>1.8</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>90</MaxHitPoints>
+      <Mass>5</Mass>
+      <Beauty>50</Beauty>
+      <WorkToBuild>4000</WorkToBuild>
+    </statBases>
+    <size>(1,2)</size>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyCassowaryBase">
+    <defName>TaxidermyCassowary</defName>
+    <costList>
+      <Leather_Bird>100</Leather_Bird>
+      <WoodLog>25</WoodLog>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyCassowaryBase">
+    <defName>TaxidermyCassowaryCorpse</defName>
+    <costList>
+      <Corpse_Cassowary>1</Corpse_Cassowary>
+      <WoodLog>25</WoodLog>
+    </costList>
+  </ThingDef>
+</Defs>

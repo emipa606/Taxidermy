@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <DesignatorDropdownGroupDef>
+    <defName>TaxidermyGrizzlyBearGroup</defName>
+  </DesignatorDropdownGroupDef>
+  <ThingDef ParentName="TaxidermyBase" Name="TaxidermyGrizzlyBearBase" Abstract="True">
+    <label>stuffed grizzly bear</label>
+    <description>A stuffed grizzly bear.</description>
+    <designatorDropdown>TaxidermyGrizzlyBearGroup</designatorDropdown>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <texPath>Bear/Bear</texPath>
+      <drawSize>2.7</drawSize>
+      <color>(112,82,65)</color>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>120</MaxHitPoints>
+      <Mass>10</Mass>
+      <Beauty>75</Beauty>
+      <WorkToBuild>4500</WorkToBuild>
+    </statBases>
+    <size>(2,2)</size>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyGrizzlyBearBase">
+    <defName>TaxidermyGrizzlyBear</defName>
+    <costList>
+      <Leather_Bear>125</Leather_Bear>
+      <WoodLog>50</WoodLog>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyGrizzlyBearBase">
+    <defName>TaxidermyGrizzlyBearCorpse</defName>
+    <costList>
+      <Corpse_Bear_Grizzly>1</Corpse_Bear_Grizzly>
+      <WoodLog>50</WoodLog>
+    </costList>
+  </ThingDef>
+  <DesignatorDropdownGroupDef>
+    <defName>TaxidermyPolarBearGroup</defName>
+  </DesignatorDropdownGroupDef>
+  <ThingDef ParentName="TaxidermyBase" Name="TaxidermyPolarBearBase" Abstract="True">
+    <label>stuffed polar bear</label>
+    <description>A stuffed polar bear.</description>
+    <designatorDropdown>TaxidermyPolarBearGroup</designatorDropdown>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <texPath>Bear/Bear</texPath>
+      <drawSize>2.7</drawSize>
+      <color>(180,180,180)</color>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>120</MaxHitPoints>
+      <Mass>10</Mass>
+      <Beauty>75</Beauty>
+      <WorkToBuild>4500</WorkToBuild>
+    </statBases>
+    <size>(2,2)</size>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyPolarBearBase">
+    <defName>TaxidermyPolarBear</defName>
+    <costList>
+      <Leather_Bear>125</Leather_Bear>
+      <WoodLog>50</WoodLog>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyPolarBearBase">
+    <defName>TaxidermyPolarBearCorpse</defName>
+    <costList>
+      <Corpse_Bear_Polar>1</Corpse_Bear_Polar>
+      <WoodLog>50</WoodLog>
+    </costList>
+  </ThingDef>
+</Defs>

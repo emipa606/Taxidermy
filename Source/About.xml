@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Taxidermy[v18]</name>
+  <author>Joseph</author>
+  <targetVersion>0.18.0</targetVersion>
+  <description>
+Adds a "stuffed" version of every vinilla rimworld animal. 
+These animals act as pieces of art, however they are built not crafted.
+Animals require some wood and appropriate leather. Animals that do not give leather, require cloth instead.
+Elephants also require tusks, and Thrumbos require a horn, They give more beauty for this reason. 
+</description>
+</ModMetaData>

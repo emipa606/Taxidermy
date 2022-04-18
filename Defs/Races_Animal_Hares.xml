@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <DesignatorDropdownGroupDef>
+    <defName>TaxidermyHareGroup</defName>
+  </DesignatorDropdownGroupDef>
+  <ThingDef ParentName="TaxidermyBase" Name="TaxidermyHareBase" Abstract="True">
+    <label>stuffed hare</label>
+    <description>A stuffed hare.</description>
+    <designatorDropdown>TaxidermyHareGroup</designatorDropdown>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <texPath>Hare/Hare</texPath>
+      <drawSize>1.5</drawSize>
+      <color>(130,127,106)</color>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>2.5</Mass>
+      <Beauty>25</Beauty>
+      <WorkToBuild>3500</WorkToBuild>
+    </statBases>
+    <size>(1,1)</size>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyHareBase">
+    <defName>TaxidermyHare</defName>
+    <costList>
+      <Leather_Light>50</Leather_Light>
+      <WoodLog>15</WoodLog>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyHareBase">
+    <defName>TaxidermyHareCorpse</defName>
+    <costList>
+      <Corpse_Hare>1</Corpse_Hare>
+      <WoodLog>15</WoodLog>
+    </costList>
+  </ThingDef>
+  <DesignatorDropdownGroupDef>
+    <defName>TaxidermySnowhareGroup</defName>
+  </DesignatorDropdownGroupDef>
+  <ThingDef ParentName="TaxidermyBase" Name="TaxidermySnowhareBase" Abstract="True">
+    <label>stuffed snow hare</label>
+    <description>A stuffed snow hare.</description>
+    <designatorDropdown>TaxidermySnowhareGroup</designatorDropdown>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <texPath>Hare/Hare</texPath>
+      <drawSize>1.5</drawSize>
+      <color>(180,180,180)</color>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>2.5</Mass>
+      <Beauty>25</Beauty>
+      <WorkToBuild>3500</WorkToBuild>
+    </statBases>
+    <size>(1,1)</size>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermySnowhareBase">
+    <defName>TaxidermySnowhare</defName>
+    <costList>
+      <Leather_Light>50</Leather_Light>
+      <WoodLog>15</WoodLog>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermySnowhareBase">
+    <defName>TaxidermySnowhareCorpse</defName>
+    <costList>
+      <Corpse_Snowhare>1</Corpse_Snowhare>
+      <WoodLog>15</WoodLog>
+    </costList>
+  </ThingDef>
+</Defs>

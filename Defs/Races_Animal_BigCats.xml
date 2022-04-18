@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <DesignatorDropdownGroupDef>
+    <defName>TaxidermyCougarGroup</defName>
+  </DesignatorDropdownGroupDef>
+  <ThingDef ParentName="TaxidermyBase" Name="TaxidermyCougarBase" Abstract="True">
+    <label>stuffed cougar</label>
+    <description>A stuffed cougar.</description>
+    <designatorDropdown>TaxidermyCougarGroup</designatorDropdown>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <texPath>Cougar/Cougar</texPath>
+      <drawSize>2.18</drawSize>
+      <color>(177,136,112)</color>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>90</MaxHitPoints>
+      <Mass>5</Mass>
+      <Beauty>50</Beauty>
+      <WorkToBuild>4000</WorkToBuild>
+    </statBases>
+    <size>(1,2)</size>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyCougarBase">
+    <defName>TaxidermyCougar</defName>
+    <costList>
+      <Leather_Panthera>100</Leather_Panthera>
+      <WoodLog>25</WoodLog>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyCougarBase">
+    <defName>TaxidermyCougarCorpse</defName>
+    <costList>
+      <Corpse_Cougar>1</Corpse_Cougar>
+      <WoodLog>25</WoodLog>
+    </costList>
+  </ThingDef>
+  <DesignatorDropdownGroupDef>
+    <defName>TaxidermyPantherGroup</defName>
+  </DesignatorDropdownGroupDef>
+  <ThingDef ParentName="TaxidermyBase" Name="TaxidermyPantherBase" Abstract="True">
+    <label>stuffed panther</label>
+    <description>A stuffed panther.</description>
+    <designatorDropdown>TaxidermyPantherGroup</designatorDropdown>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <texPath>Cougar/Cougar</texPath>
+      <drawSize>2.12</drawSize>
+      <color>(60,60,60)</color>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>85</MaxHitPoints>
+      <Mass>4.8</Mass>
+      <Beauty>45</Beauty>
+      <WorkToBuild>3800</WorkToBuild>
+    </statBases>
+    <size>(1,2)</size>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyPantherBase">
+    <defName>TaxidermyPanther</defName>
+    <costList>
+      <Leather_Panthera>95</Leather_Panthera>
+      <WoodLog>23</WoodLog>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyPantherBase">
+    <defName>TaxidermyPantherCorpse</defName>
+    <costList>
+      <Corpse_Panther>1</Corpse_Panther>
+      <WoodLog>23</WoodLog>
+    </costList>
+  </ThingDef>
+  <DesignatorDropdownGroupDef>
+    <defName>TaxidermyLynxGroup</defName>
+  </DesignatorDropdownGroupDef>
+  <ThingDef ParentName="TaxidermyBase" Name="TaxidermyLynxBase" Abstract="True">
+    <label>stuffed lynx</label>
+    <description>A stuffed lynx.</description>
+    <designatorDropdown>TaxidermyLynxGroup</designatorDropdown>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <texPath>Lynx/Lynx</texPath>
+      <drawSize>1.6</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>90</MaxHitPoints>
+      <Mass>5</Mass>
+      <Beauty>50</Beauty>
+      <WorkToBuild>4000</WorkToBuild>
+    </statBases>
+    <size>(1,2)</size>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyLynxBase">
+    <defName>TaxidermyLynx</defName>
+    <costList>
+      <Leather_Panthera>100</Leather_Panthera>
+      <WoodLog>25</WoodLog>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyLynxBase">
+    <defName>TaxidermyLynxCorpse</defName>
+    <costList>
+      <Corpse_Lynx>1</Corpse_Lynx>
+      <WoodLog>25</WoodLog>
+    </costList>
+  </ThingDef>
+</Defs>

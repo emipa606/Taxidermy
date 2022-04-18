@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <DesignatorDropdownGroupDef>
+    <defName>TaxidermyMegascarabGroup</defName>
+  </DesignatorDropdownGroupDef>
+  <ThingDef ParentName="TaxidermyBase" Name="TaxidermyMegascarabBase" Abstract="True">
+    <label>stuffed megascarab</label>
+    <description>A stuffed megascarab.</description>
+    <designatorDropdown>TaxidermyMegascarabGroup</designatorDropdown>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <texPath>Megascarab/Megascarab</texPath>
+      <drawSize>1.5</drawSize>
+      <color>(114,107,84)</color>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>2.5</Mass>
+      <Beauty>25</Beauty>
+      <WorkToBuild>3500</WorkToBuild>
+    </statBases>
+    <size>(1,1)</size>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyMegascarabBase">
+    <defName>TaxidermyMegascarab</defName>
+    <costList>
+      <Cloth>50</Cloth>
+      <WoodLog>15</WoodLog>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyMegascarabBase">
+    <defName>TaxidermyMegascarabCorpse</defName>
+    <costList>
+      <Corpse_Megascarab>1</Corpse_Megascarab>
+      <WoodLog>15</WoodLog>
+    </costList>
+  </ThingDef>
+  <DesignatorDropdownGroupDef>
+    <defName>TaxidermySpelopedeGroup</defName>
+  </DesignatorDropdownGroupDef>
+  <ThingDef ParentName="TaxidermyBase" Name="TaxidermySpelopedeBase" Abstract="True">
+    <label>stuffed spelopede</label>
+    <description>A stuffed spelopede.</description>
+    <designatorDropdown>TaxidermySpelopedeGroup</designatorDropdown>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <texPath>Spelopede/Spelopede</texPath>
+      <drawSize>1.65</drawSize>
+      <color>(156,148,125)</color>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>90</MaxHitPoints>
+      <Mass>5</Mass>
+      <Beauty>50</Beauty>
+      <WorkToBuild>4000</WorkToBuild>
+    </statBases>
+    <size>(2,1)</size>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermySpelopedeBase">
+    <defName>TaxidermySpelopede</defName>
+    <costList>
+      <Cloth>125</Cloth>
+      <WoodLog>30</WoodLog>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermySpelopedeBase">
+    <defName>TaxidermySpelopedeCorpse</defName>
+    <costList>
+      <Corpse_Spelopede>1</Corpse_Spelopede>
+      <WoodLog>30</WoodLog>
+    </costList>
+  </ThingDef>
+  <DesignatorDropdownGroupDef>
+    <defName>TaxidermyMegaspiderGroup</defName>
+  </DesignatorDropdownGroupDef>
+  <ThingDef ParentName="TaxidermyBase" Name="TaxidermyMegaspiderBase" Abstract="True">
+    <label>stuffed megaspider</label>
+    <description>A stuffed megaspider.</description>
+    <designatorDropdown>TaxidermyMegaspiderGroup</designatorDropdown>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <texPath>Megaspider/Megaspider</texPath>
+      <drawSize>2.5</drawSize>
+      <color>(154,125,94)</color>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>120</MaxHitPoints>
+      <Mass>10</Mass>
+      <Beauty>75</Beauty>
+      <WorkToBuild>4500</WorkToBuild>
+    </statBases>
+    <size>(2,2)</size>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyMegaspiderBase">
+    <defName>TaxidermyMegaspider</defName>
+    <costList>
+      <Cloth>150</Cloth>
+      <WoodLog>75</WoodLog>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyMegaspiderBase">
+    <defName>TaxidermyMegaspiderCorpse</defName>
+    <costList>
+      <Corpse_Megaspider>1</Corpse_Megaspider>
+      <WoodLog>75</WoodLog>
+    </costList>
+  </ThingDef>
+</Defs>

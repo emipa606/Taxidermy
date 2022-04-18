@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <DesignatorDropdownGroupDef>
+    <defName>TaxidermyChickenGroup</defName>
+  </DesignatorDropdownGroupDef>
+  <ThingDef ParentName="TaxidermyBase" Name="TaxidermyChickenBase" Abstract="True">
+    <label>stuffed chicken</label>
+    <description>A stuffed chicken.</description>
+    <designatorDropdown>TaxidermyChickenGroup</designatorDropdown>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <texPath>Chicken/Chicken</texPath>
+      <drawSize>.87</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>2.5</Mass>
+      <Beauty>25</Beauty>
+      <WorkToBuild>3500</WorkToBuild>
+    </statBases>
+    <size>(1,1)</size>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyChickenBase">
+    <defName>TaxidermyChicken</defName>
+    <costList>
+      <Leather_Bird>50</Leather_Bird>
+      <WoodLog>15</WoodLog>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyChickenBase">
+    <defName>TaxidermyChickenCorpse</defName>
+    <costList>
+      <Corpse_Chicken>1</Corpse_Chicken>
+      <WoodLog>15</WoodLog>
+    </costList>
+  </ThingDef>
+  <DesignatorDropdownGroupDef>
+    <defName>TaxidermyDuckGroup</defName>
+  </DesignatorDropdownGroupDef>
+  <ThingDef ParentName="TaxidermyBase" Name="TaxidermyDuckBase" Abstract="True">
+    <label>stuffed duck</label>
+    <description>A stuffed duck.</description>
+    <designatorDropdown>TaxidermyDuckGroup</designatorDropdown>
+    <graphicData>
+      <graphicClass>Graphic_Random</graphicClass>
+      <texPath>Duck</texPath>
+      <drawSize>.87</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>2.5</Mass>
+      <Beauty>25</Beauty>
+      <WorkToBuild>3500</WorkToBuild>
+    </statBases>
+    <size>(1,1)</size>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyDuckBase">
+    <defName>TaxidermyDuck</defName>
+    <costList>
+      <Leather_Bird>50</Leather_Bird>
+      <WoodLog>15</WoodLog>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyDuckBase">
+    <defName>TaxidermyDuckCorpse</defName>
+    <costList>
+      <Corpse_Duck>1</Corpse_Duck>
+      <WoodLog>15</WoodLog>
+    </costList>
+  </ThingDef>
+  <DesignatorDropdownGroupDef>
+    <defName>TaxidermyTurkeyGroup</defName>
+  </DesignatorDropdownGroupDef>
+  <ThingDef ParentName="TaxidermyBase" Name="TaxidermyTurkeyBase" Abstract="True">
+    <label>stuffed turkey</label>
+    <description>A stuffed turkey</description>
+    <designatorDropdown>TaxidermyTurkeyGroup</designatorDropdown>
+    <graphicData>
+      <graphicClass>Graphic_Random</graphicClass>
+      <texPath>Turkey</texPath>
+      <drawSize>1.4</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>2.5</Mass>
+      <Beauty>25</Beauty>
+      <WorkToBuild>3500</WorkToBuild>
+    </statBases>
+    <size>(1,1)</size>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyTurkeyBase">
+    <defName>TaxidermyTurkey</defName>
+    <costList>
+      <Leather_Bird>50</Leather_Bird>
+      <WoodLog>15</WoodLog>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyTurkeyBase">
+    <defName>TaxidermyTurkeyCorpse</defName>
+    <costList>
+      <Corpse_Turkey>1</Corpse_Turkey>
+      <WoodLog>15</WoodLog>
+    </costList>
+  </ThingDef>
+  <DesignatorDropdownGroupDef>
+    <defName>TaxidermyGooseGroup</defName>
+  </DesignatorDropdownGroupDef>
+  <ThingDef ParentName="TaxidermyBase" Name="TaxidermyGooseBase" Abstract="True">
+    <label>stuffed goose</label>
+    <description>A stuffed goose</description>
+    <designatorDropdown>TaxidermyGooseGroup</designatorDropdown>
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+      <texPath>Goose/Goose</texPath>
+      <drawSize>1.4</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Mass>2.5</Mass>
+      <Beauty>25</Beauty>
+      <WorkToBuild>3500</WorkToBuild>
+    </statBases>
+    <size>(1,1)</size>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyGooseBase">
+    <defName>TaxidermyGoose</defName>
+    <costList>
+      <Leather_Bird>50</Leather_Bird>
+      <WoodLog>15</WoodLog>
+    </costList>
+  </ThingDef>
+  <ThingDef ParentName="TaxidermyGooseBase">
+    <defName>TaxidermyGooseCorpse</defName>
+    <costList>
+      <Corpse_Goose>1</Corpse_Goose>
+      <WoodLog>15</WoodLog>
+    </costList>
+  </ThingDef>
+</Defs>
