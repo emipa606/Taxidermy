@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: stuffed grizzly bear -->
+  <TaxidermyGrizzlyBear.label>stuffed grizzly bear</TaxidermyGrizzlyBear.label>
+  <!-- EN: A stuffed grizzly bear. -->
+  <TaxidermyGrizzlyBear.description>A stuffed grizzly bear.</TaxidermyGrizzlyBear.description>
+  <!-- EN: stuffed grizzly bear -->
+  <TaxidermyGrizzlyBearCorpse.label>stuffed grizzly bear</TaxidermyGrizzlyBearCorpse.label>
+  <!-- EN: A stuffed grizzly bear. -->
+  <TaxidermyGrizzlyBearCorpse.description>A stuffed grizzly bear.</TaxidermyGrizzlyBearCorpse.description>
+  <!-- EN: stuffed polar bear -->
+  <TaxidermyPolarBear.label>stuffed polar bear</TaxidermyPolarBear.label>
+  <!-- EN: A stuffed polar bear. -->
+  <TaxidermyPolarBear.description>A stuffed polar bear.</TaxidermyPolarBear.description>
+  <!-- EN: stuffed polar bear -->
+  <TaxidermyPolarBearCorpse.label>stuffed polar bear</TaxidermyPolarBearCorpse.label>
+  <!-- EN: A stuffed polar bear. -->
+  <TaxidermyPolarBearCorpse.description>A stuffed polar bear.</TaxidermyPolarBearCorpse.description>
+</LanguageData>

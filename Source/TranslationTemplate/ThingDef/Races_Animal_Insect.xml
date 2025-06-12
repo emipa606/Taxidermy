@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: stuffed megascarab -->
+  <TaxidermyMegascarab.label>stuffed megascarab</TaxidermyMegascarab.label>
+  <!-- EN: A stuffed megascarab. -->
+  <TaxidermyMegascarab.description>A stuffed megascarab.</TaxidermyMegascarab.description>
+  <!-- EN: stuffed megascarab -->
+  <TaxidermyMegascarabCorpse.label>stuffed megascarab</TaxidermyMegascarabCorpse.label>
+  <!-- EN: A stuffed megascarab. -->
+  <TaxidermyMegascarabCorpse.description>A stuffed megascarab.</TaxidermyMegascarabCorpse.description>
+  <!-- EN: stuffed megaspider -->
+  <TaxidermyMegaspider.label>stuffed megaspider</TaxidermyMegaspider.label>
+  <!-- EN: A stuffed megaspider. -->
+  <TaxidermyMegaspider.description>A stuffed megaspider.</TaxidermyMegaspider.description>
+  <!-- EN: stuffed megaspider -->
+  <TaxidermyMegaspiderCorpse.label>stuffed megaspider</TaxidermyMegaspiderCorpse.label>
+  <!-- EN: A stuffed megaspider. -->
+  <TaxidermyMegaspiderCorpse.description>A stuffed megaspider.</TaxidermyMegaspiderCorpse.description>
+  <!-- EN: stuffed spelopede -->
+  <TaxidermySpelopede.label>stuffed spelopede</TaxidermySpelopede.label>
+  <!-- EN: A stuffed spelopede. -->
+  <TaxidermySpelopede.description>A stuffed spelopede.</TaxidermySpelopede.description>
+  <!-- EN: stuffed spelopede -->
+  <TaxidermySpelopedeCorpse.label>stuffed spelopede</TaxidermySpelopedeCorpse.label>
+  <!-- EN: A stuffed spelopede. -->
+  <TaxidermySpelopedeCorpse.description>A stuffed spelopede.</TaxidermySpelopedeCorpse.description>
+</LanguageData>

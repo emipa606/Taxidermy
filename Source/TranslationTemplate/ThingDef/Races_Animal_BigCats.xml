@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: stuffed cougar -->
+  <TaxidermyCougar.label>stuffed cougar</TaxidermyCougar.label>
+  <!-- EN: A stuffed cougar. -->
+  <TaxidermyCougar.description>A stuffed cougar.</TaxidermyCougar.description>
+  <!-- EN: stuffed cougar -->
+  <TaxidermyCougarCorpse.label>stuffed cougar</TaxidermyCougarCorpse.label>
+  <!-- EN: A stuffed cougar. -->
+  <TaxidermyCougarCorpse.description>A stuffed cougar.</TaxidermyCougarCorpse.description>
+  <!-- EN: stuffed lynx -->
+  <TaxidermyLynx.label>stuffed lynx</TaxidermyLynx.label>
+  <!-- EN: A stuffed lynx. -->
+  <TaxidermyLynx.description>A stuffed lynx.</TaxidermyLynx.description>
+  <!-- EN: stuffed lynx -->
+  <TaxidermyLynxCorpse.label>stuffed lynx</TaxidermyLynxCorpse.label>
+  <!-- EN: A stuffed lynx. -->
+  <TaxidermyLynxCorpse.description>A stuffed lynx.</TaxidermyLynxCorpse.description>
+  <!-- EN: stuffed panther -->
+  <TaxidermyPanther.label>stuffed panther</TaxidermyPanther.label>
+  <!-- EN: A stuffed panther. -->
+  <TaxidermyPanther.description>A stuffed panther.</TaxidermyPanther.description>
+  <!-- EN: stuffed panther -->
+  <TaxidermyPantherCorpse.label>stuffed panther</TaxidermyPantherCorpse.label>
+  <!-- EN: A stuffed panther. -->
+  <TaxidermyPantherCorpse.description>A stuffed panther.</TaxidermyPantherCorpse.description>
+</LanguageData>

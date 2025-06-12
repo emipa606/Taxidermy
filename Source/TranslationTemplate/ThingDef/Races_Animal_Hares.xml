@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: stuffed hare -->
+  <TaxidermyHare.label>stuffed hare</TaxidermyHare.label>
+  <!-- EN: A stuffed hare. -->
+  <TaxidermyHare.description>A stuffed hare.</TaxidermyHare.description>
+  <!-- EN: stuffed hare -->
+  <TaxidermyHareCorpse.label>stuffed hare</TaxidermyHareCorpse.label>
+  <!-- EN: A stuffed hare. -->
+  <TaxidermyHareCorpse.description>A stuffed hare.</TaxidermyHareCorpse.description>
+  <!-- EN: stuffed snow hare -->
+  <TaxidermySnowhare.label>stuffed snow hare</TaxidermySnowhare.label>
+  <!-- EN: A stuffed snow hare. -->
+  <TaxidermySnowhare.description>A stuffed snow hare.</TaxidermySnowhare.description>
+  <!-- EN: stuffed snow hare -->
+  <TaxidermySnowhareCorpse.label>stuffed snow hare</TaxidermySnowhareCorpse.label>
+  <!-- EN: A stuffed snow hare. -->
+  <TaxidermySnowhareCorpse.description>A stuffed snow hare.</TaxidermySnowhareCorpse.description>
+</LanguageData>

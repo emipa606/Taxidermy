@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: stuffed warg -->
+  <TaxidermyWarg.label>stuffed warg</TaxidermyWarg.label>
+  <!-- EN: A stuffed warg. -->
+  <TaxidermyWarg.description>A stuffed warg.</TaxidermyWarg.description>
+  <!-- EN: stuffed warg -->
+  <TaxidermyWargCorpse.label>stuffed warg</TaxidermyWargCorpse.label>
+  <!-- EN: A stuffed warg. -->
+  <TaxidermyWargCorpse.description>A stuffed warg.</TaxidermyWargCorpse.description>
+</LanguageData>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: stuffed chicken -->
+  <TaxidermyChicken.label>stuffed chicken</TaxidermyChicken.label>
+  <!-- EN: A stuffed chicken. -->
+  <TaxidermyChicken.description>A stuffed chicken.</TaxidermyChicken.description>
+  <!-- EN: stuffed chicken -->
+  <TaxidermyChickenCorpse.label>stuffed chicken</TaxidermyChickenCorpse.label>
+  <!-- EN: A stuffed chicken. -->
+  <TaxidermyChickenCorpse.description>A stuffed chicken.</TaxidermyChickenCorpse.description>
+  <!-- EN: stuffed duck -->
+  <TaxidermyDuck.label>stuffed duck</TaxidermyDuck.label>
+  <!-- EN: A stuffed duck. -->
+  <TaxidermyDuck.description>A stuffed duck.</TaxidermyDuck.description>
+  <!-- EN: stuffed duck -->
+  <TaxidermyDuckCorpse.label>stuffed duck</TaxidermyDuckCorpse.label>
+  <!-- EN: A stuffed duck. -->
+  <TaxidermyDuckCorpse.description>A stuffed duck.</TaxidermyDuckCorpse.description>
+  <!-- EN: stuffed goose -->
+  <TaxidermyGoose.label>stuffed goose</TaxidermyGoose.label>
+  <!-- EN: A stuffed goose -->
+  <TaxidermyGoose.description>A stuffed goose</TaxidermyGoose.description>
+  <!-- EN: stuffed goose -->
+  <TaxidermyGooseCorpse.label>stuffed goose</TaxidermyGooseCorpse.label>
+  <!-- EN: A stuffed goose -->
+  <TaxidermyGooseCorpse.description>A stuffed goose</TaxidermyGooseCorpse.description>
+  <!-- EN: stuffed turkey -->
+  <TaxidermyTurkey.label>stuffed turkey</TaxidermyTurkey.label>
+  <!-- EN: A stuffed turkey -->
+  <TaxidermyTurkey.description>A stuffed turkey</TaxidermyTurkey.description>
+  <!-- EN: stuffed turkey -->
+  <TaxidermyTurkeyCorpse.label>stuffed turkey</TaxidermyTurkeyCorpse.label>
+  <!-- EN: A stuffed turkey -->
+  <TaxidermyTurkeyCorpse.description>A stuffed turkey</TaxidermyTurkeyCorpse.description>
+</LanguageData>

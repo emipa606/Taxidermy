@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: stuffed boomrat -->
+  <TaxidermyBoomrat.label>stuffed boomrat</TaxidermyBoomrat.label>
+  <!-- EN: A stuffed boomrat. -->
+  <TaxidermyBoomrat.description>A stuffed boomrat.</TaxidermyBoomrat.description>
+  <!-- EN: stuffed boomrat -->
+  <TaxidermyBoomratCorpse.label>stuffed boomrat</TaxidermyBoomratCorpse.label>
+  <!-- EN: A stuffed boomrat. -->
+  <TaxidermyBoomratCorpse.description>A stuffed boomrat.</TaxidermyBoomratCorpse.description>
+  <!-- EN: stuffed iguana -->
+  <TaxidermyIguana.label>stuffed iguana</TaxidermyIguana.label>
+  <!-- EN: A stuffed iguana. -->
+  <TaxidermyIguana.description>A stuffed iguana.</TaxidermyIguana.description>
+  <!-- EN: stuffed iguana -->
+  <TaxidermyIguanaCorpse.label>stuffed iguana</TaxidermyIguanaCorpse.label>
+  <!-- EN: A stuffed iguana. -->
+  <TaxidermyIguanaCorpse.description>A stuffed iguana.</TaxidermyIguanaCorpse.description>
+  <!-- EN: stuffed raccoon -->
+  <TaxidermyRaccoon.label>stuffed raccoon</TaxidermyRaccoon.label>
+  <!-- EN: A stuffed racoon. -->
+  <TaxidermyRaccoon.description>A stuffed racoon.</TaxidermyRaccoon.description>
+  <!-- EN: stuffed raccoon -->
+  <TaxidermyRaccoonCorpse.label>stuffed raccoon</TaxidermyRaccoonCorpse.label>
+  <!-- EN: A stuffed racoon. -->
+  <TaxidermyRaccoonCorpse.description>A stuffed racoon.</TaxidermyRaccoonCorpse.description>
+  <!-- EN: stuffed rat -->
+  <TaxidermyRat.label>stuffed rat</TaxidermyRat.label>
+  <!-- EN: A stuffed rat. -->
+  <TaxidermyRat.description>A stuffed rat.</TaxidermyRat.description>
+  <!-- EN: stuffed rat -->
+  <TaxidermyRatCorpse.label>stuffed rat</TaxidermyRatCorpse.label>
+  <!-- EN: A stuffed rat. -->
+  <TaxidermyRatCorpse.description>A stuffed rat.</TaxidermyRatCorpse.description>
+  <!-- EN: stuffed squirrel -->
+  <TaxidermySquirrel.label>stuffed squirrel</TaxidermySquirrel.label>
+  <!-- EN: A stuffed squirrel. -->
+  <TaxidermySquirrel.description>A stuffed squirrel.</TaxidermySquirrel.description>
+  <!-- EN: stuffed squirrel -->
+  <TaxidermySquirrelCorpse.label>stuffed squirrel</TaxidermySquirrelCorpse.label>
+  <!-- EN: A stuffed squirrel. -->
+  <TaxidermySquirrelCorpse.description>A stuffed squirrel.</TaxidermySquirrelCorpse.description>
+</LanguageData>

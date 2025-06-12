@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: stuffed chinchilla -->
+  <TaxidermyChinchilla.label>stuffed chinchilla</TaxidermyChinchilla.label>
+  <!-- EN: A stuffed chinchilla. -->
+  <TaxidermyChinchilla.description>A stuffed chinchilla.</TaxidermyChinchilla.description>
+  <!-- EN: stuffed chinchilla -->
+  <TaxidermyChinchillaCorpse.label>stuffed chinchilla</TaxidermyChinchillaCorpse.label>
+  <!-- EN: A stuffed chinchilla. -->
+  <TaxidermyChinchillaCorpse.description>A stuffed chinchilla.</TaxidermyChinchillaCorpse.description>
+  <!-- EN: stuffed deer -->
+  <TaxidermyDeer.label>stuffed deer</TaxidermyDeer.label>
+  <!-- EN: A stuffed deer. -->
+  <TaxidermyDeer.description>A stuffed deer.</TaxidermyDeer.description>
+  <!-- EN: stuffed deer -->
+  <TaxidermyDeerCorpse.label>stuffed deer</TaxidermyDeerCorpse.label>
+  <!-- EN: A stuffed deer. -->
+  <TaxidermyDeerCorpse.description>A stuffed deer.</TaxidermyDeerCorpse.description>
+  <!-- EN: stuffed gazelle -->
+  <TaxidermyGazelle.label>stuffed gazelle</TaxidermyGazelle.label>
+  <!-- EN: A stuffed gazelle. -->
+  <TaxidermyGazelle.description>A stuffed gazelle.</TaxidermyGazelle.description>
+  <!-- EN: stuffed gazelle -->
+  <TaxidermyGazelleCorpse.label>stuffed gazelle</TaxidermyGazelleCorpse.label>
+  <!-- EN: A stuffed gazelle. -->
+  <TaxidermyGazelleCorpse.description>A stuffed gazelle.</TaxidermyGazelleCorpse.description>
+  <!-- EN: stuffed ibex -->
+  <TaxidermyIbex.label>stuffed ibex</TaxidermyIbex.label>
+  <!-- EN: A stuffed ibex. -->
+  <TaxidermyIbex.description>A stuffed ibex.</TaxidermyIbex.description>
+  <!-- EN: stuffed ibex -->
+  <TaxidermyIbexCorpse.label>stuffed ibex</TaxidermyIbexCorpse.label>
+  <!-- EN: A stuffed ibex. -->
+  <TaxidermyIbexCorpse.description>A stuffed ibex.</TaxidermyIbexCorpse.description>
+  <!-- EN: stuffed pig -->
+  <TaxidermyPig.label>stuffed pig</TaxidermyPig.label>
+  <!-- EN: A stuffed pig. -->
+  <TaxidermyPig.description>A stuffed pig.</TaxidermyPig.description>
+  <!-- EN: stuffed pig -->
+  <TaxidermyPigCorpse.label>stuffed pig</TaxidermyPigCorpse.label>
+  <!-- EN: A stuffed pig. -->
+  <TaxidermyPigCorpse.description>A stuffed pig.</TaxidermyPigCorpse.description>
+  <!-- EN: stuffed wild boar -->
+  <TaxidermyWildBoar.label>stuffed wild boar</TaxidermyWildBoar.label>
+  <!-- EN: A stuffed wild boar. -->
+  <TaxidermyWildBoar.description>A stuffed wild boar.</TaxidermyWildBoar.description>
+  <!-- EN: stuffed wild boar -->
+  <TaxidermyWildBoarCorpse.label>stuffed wild boar</TaxidermyWildBoarCorpse.label>
+  <!-- EN: A stuffed wild boar. -->
+  <TaxidermyWildBoarCorpse.description>A stuffed wild boar.</TaxidermyWildBoarCorpse.description>
+</LanguageData>

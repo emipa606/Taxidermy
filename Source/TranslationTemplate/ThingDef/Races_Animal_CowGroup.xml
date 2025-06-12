@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: stuffed bison -->
+  <TaxidermyBison.label>stuffed bison</TaxidermyBison.label>
+  <!-- EN: A stuffed bison. -->
+  <TaxidermyBison.description>A stuffed bison.</TaxidermyBison.description>
+  <!-- EN: stuffed bison -->
+  <TaxidermyBisonCorpse.label>stuffed bison</TaxidermyBisonCorpse.label>
+  <!-- EN: A stuffed bison. -->
+  <TaxidermyBisonCorpse.description>A stuffed bison.</TaxidermyBisonCorpse.description>
+  <!-- EN: stuffed boomalope -->
+  <TaxidermyBoomalope.label>stuffed boomalope</TaxidermyBoomalope.label>
+  <!-- EN: A stuffed boomalope. -->
+  <TaxidermyBoomalope.description>A stuffed boomalope.</TaxidermyBoomalope.description>
+  <!-- EN: stuffed boomalope -->
+  <TaxidermyBoomalopeCorpse.label>stuffed boomalope</TaxidermyBoomalopeCorpse.label>
+  <!-- EN: A stuffed boomalope. -->
+  <TaxidermyBoomalopeCorpse.description>A stuffed boomalope.</TaxidermyBoomalopeCorpse.description>
+  <!-- EN: stuffed caribou -->
+  <TaxidermyCaribou.label>stuffed caribou</TaxidermyCaribou.label>
+  <!-- EN: A stuffed caribou. -->
+  <TaxidermyCaribou.description>A stuffed caribou.</TaxidermyCaribou.description>
+  <!-- EN: stuffed caribou -->
+  <TaxidermyCaribouCorpse.label>stuffed caribou</TaxidermyCaribouCorpse.label>
+  <!-- EN: A stuffed caribou. -->
+  <TaxidermyCaribouCorpse.description>A stuffed caribou.</TaxidermyCaribouCorpse.description>
+  <!-- EN: stuffed cow -->
+  <TaxidermyCow.label>stuffed cow</TaxidermyCow.label>
+  <!-- EN: A stuffed cow. -->
+  <TaxidermyCow.description>A stuffed cow.</TaxidermyCow.description>
+  <!-- EN: stuffed cow -->
+  <TaxidermyCowCorpse.label>stuffed cow</TaxidermyCowCorpse.label>
+  <!-- EN: A stuffed cow. -->
+  <TaxidermyCowCorpse.description>A stuffed cow.</TaxidermyCowCorpse.description>
+  <!-- EN: stuffed donkey -->
+  <TaxidermyDonkey.label>stuffed donkey</TaxidermyDonkey.label>
+  <!-- EN: A stuffed donkey. -->
+  <TaxidermyDonkey.description>A stuffed donkey.</TaxidermyDonkey.description>
+  <!-- EN: stuffed donkey -->
+  <TaxidermyDonkeyCorpse.label>stuffed donkey</TaxidermyDonkeyCorpse.label>
+  <!-- EN: A stuffed donkey. -->
+  <TaxidermyDonkeyCorpse.description>A stuffed donkey.</TaxidermyDonkeyCorpse.description>
+  <!-- EN: stuffed dromedary -->
+  <TaxidermyDromedary.label>stuffed dromedary</TaxidermyDromedary.label>
+  <!-- EN: A stuffed dromedary. -->
+  <TaxidermyDromedary.description>A stuffed dromedary.</TaxidermyDromedary.description>
+  <!-- EN: stuffed dromedary -->
+  <TaxidermyDromedaryCorpse.label>stuffed dromedary</TaxidermyDromedaryCorpse.label>
+  <!-- EN: A stuffed dromedary. -->
+  <TaxidermyDromedaryCorpse.description>A stuffed dromedary.</TaxidermyDromedaryCorpse.description>
+  <!-- EN: stuffed elephant -->
+  <TaxidermyElephant.label>stuffed elephant</TaxidermyElephant.label>
+  <!-- EN: A stuffed elephant. -->
+  <TaxidermyElephant.description>A stuffed elephant.</TaxidermyElephant.description>
+  <!-- EN: stuffed elephant -->
+  <TaxidermyElephantCorpse.label>stuffed elephant</TaxidermyElephantCorpse.label>
+  <!-- EN: A stuffed elephant. -->
+  <TaxidermyElephantCorpse.description>A stuffed elephant.</TaxidermyElephantCorpse.description>
+  <!-- EN: stuffed elk -->
+  <TaxidermyElk.label>stuffed elk</TaxidermyElk.label>
+  <!-- EN: A stuffed elk. -->
+  <TaxidermyElk.description>A stuffed elk.</TaxidermyElk.description>
+  <!-- EN: stuffed elk -->
+  <TaxidermyElkCorpse.label>stuffed elk</TaxidermyElkCorpse.label>
+  <!-- EN: A stuffed elk. -->
+  <TaxidermyElkCorpse.description>A stuffed elk.</TaxidermyElkCorpse.description>
+  <!-- EN: stuffed goat -->
+  <TaxidermyGoat.label>stuffed goat</TaxidermyGoat.label>
+  <!-- EN: A stuffed goat. -->
+  <TaxidermyGoat.description>A stuffed goat.</TaxidermyGoat.description>
+  <!-- EN: stuffed goat -->
+  <TaxidermyGoatCorpse.label>stuffed goat</TaxidermyGoatCorpse.label>
+  <!-- EN: A stuffed goat. -->
+  <TaxidermyGoatCorpse.description>A stuffed goat.</TaxidermyGoatCorpse.description>
+  <!-- EN: stuffed horse -->
+  <TaxidermyHorse.label>stuffed horse</TaxidermyHorse.label>
+  <!-- EN: A stuffed horse. -->
+  <TaxidermyHorse.description>A stuffed horse.</TaxidermyHorse.description>
+  <!-- EN: stuffed horse -->
+  <TaxidermyHorseCorpse.label>stuffed horse</TaxidermyHorseCorpse.label>
+  <!-- EN: A stuffed horse. -->
+  <TaxidermyHorseCorpse.description>A stuffed horse.</TaxidermyHorseCorpse.description>
+  <!-- EN: stuffed muffalo -->
+  <TaxidermyMuffalo.label>stuffed muffalo</TaxidermyMuffalo.label>
+  <!-- EN: A stuffed muffalo. -->
+  <TaxidermyMuffalo.description>A stuffed muffalo.</TaxidermyMuffalo.description>
+  <!-- EN: stuffed muffalo -->
+  <TaxidermyMuffaloCorpse.label>stuffed muffalo</TaxidermyMuffaloCorpse.label>
+  <!-- EN: A stuffed muffalo. -->
+  <TaxidermyMuffaloCorpse.description>A stuffed muffalo.</TaxidermyMuffaloCorpse.description>
+  <!-- EN: stuffed rhinoceros -->
+  <TaxidermyRhinoceros.label>stuffed rhinoceros</TaxidermyRhinoceros.label>
+  <!-- EN: A stuffed rhinoceros. -->
+  <TaxidermyRhinoceros.description>A stuffed rhinoceros.</TaxidermyRhinoceros.description>
+  <!-- EN: stuffed rhinoceros -->
+  <TaxidermyRhinocerosCorpse.label>stuffed rhinoceros</TaxidermyRhinocerosCorpse.label>
+  <!-- EN: A stuffed rhinoceros. -->
+  <TaxidermyRhinocerosCorpse.description>A stuffed rhinoceros.</TaxidermyRhinocerosCorpse.description>
+  <!-- EN: stuffed yak -->
+  <TaxidermyYak.label>stuffed yak</TaxidermyYak.label>
+  <!-- EN: A stuffed yak. -->
+  <TaxidermyYak.description>A stuffed yak.</TaxidermyYak.description>
+  <!-- EN: stuffed yak -->
+  <TaxidermyYakCorpse.label>stuffed yak</TaxidermyYakCorpse.label>
+  <!-- EN: A stuffed yak. -->
+  <TaxidermyYakCorpse.description>A stuffed yak.</TaxidermyYakCorpse.description>
+</LanguageData>

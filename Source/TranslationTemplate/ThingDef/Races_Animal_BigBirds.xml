@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: stuffed cassowary -->
+  <TaxidermyCassowary.label>stuffed cassowary</TaxidermyCassowary.label>
+  <!-- EN: A stuffed cassowary. -->
+  <TaxidermyCassowary.description>A stuffed cassowary.</TaxidermyCassowary.description>
+  <!-- EN: stuffed cassowary -->
+  <TaxidermyCassowaryCorpse.label>stuffed cassowary</TaxidermyCassowaryCorpse.label>
+  <!-- EN: A stuffed cassowary. -->
+  <TaxidermyCassowaryCorpse.description>A stuffed cassowary.</TaxidermyCassowaryCorpse.description>
+  <!-- EN: stuffed emu -->
+  <TaxidermyEmu.label>stuffed emu</TaxidermyEmu.label>
+  <!-- EN: A stuffed emu. -->
+  <TaxidermyEmu.description>A stuffed emu.</TaxidermyEmu.description>
+  <!-- EN: stuffed emu -->
+  <TaxidermyEmuCorpse.label>stuffed emu</TaxidermyEmuCorpse.label>
+  <!-- EN: A stuffed emu. -->
+  <TaxidermyEmuCorpse.description>A stuffed emu.</TaxidermyEmuCorpse.description>
+  <!-- EN: stuffed ostrich -->
+  <TaxidermyOstrich.label>stuffed ostrich</TaxidermyOstrich.label>
+  <!-- EN: A stuffed ostrich. -->
+  <TaxidermyOstrich.description>A stuffed ostrich.</TaxidermyOstrich.description>
+  <!-- EN: stuffed ostrich -->
+  <TaxidermyOstrichCorpse.label>stuffed ostrich</TaxidermyOstrichCorpse.label>
+  <!-- EN: A stuffed ostrich. -->
+  <TaxidermyOstrichCorpse.description>A stuffed ostrich.</TaxidermyOstrichCorpse.description>
+</LanguageData>

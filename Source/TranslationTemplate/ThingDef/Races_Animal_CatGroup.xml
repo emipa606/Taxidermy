@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: stuffed cat -->
+  <TaxidermyCat.label>stuffed cat</TaxidermyCat.label>
+  <!-- EN: A stuffed cat. -->
+  <TaxidermyCat.description>A stuffed cat.</TaxidermyCat.description>
+  <!-- EN: stuffed cougar -->
+  <TaxidermyCatCorpse.label>stuffed cougar</TaxidermyCatCorpse.label>
+  <!-- EN: A stuffed cougar. -->
+  <TaxidermyCatCorpse.description>A stuffed cougar.</TaxidermyCatCorpse.description>
+  <!-- EN: stuffed guinea pig -->
+  <TaxidermyGuineaPig.label>stuffed guinea pig</TaxidermyGuineaPig.label>
+  <!-- EN: A stuffed guinea pig. -->
+  <TaxidermyGuineaPig.description>A stuffed guinea pig.</TaxidermyGuineaPig.description>
+  <!-- EN: stuffed guinea pig -->
+  <TaxidermyGuineaPigCorpse.label>stuffed guinea pig</TaxidermyGuineaPigCorpse.label>
+  <!-- EN: A stuffed guinea pig. -->
+  <TaxidermyGuineaPigCorpse.description>A stuffed guinea pig.</TaxidermyGuineaPigCorpse.description>
+  <!-- EN: stuffed husky -->
+  <TaxidermyHusky.label>stuffed husky</TaxidermyHusky.label>
+  <!-- EN: A stuffed husky. -->
+  <TaxidermyHusky.description>A stuffed husky.</TaxidermyHusky.description>
+  <!-- EN: stuffed husky -->
+  <TaxidermyHuskyCorpse.label>stuffed husky</TaxidermyHuskyCorpse.label>
+  <!-- EN: A stuffed husky. -->
+  <TaxidermyHuskyCorpse.description>A stuffed husky.</TaxidermyHuskyCorpse.description>
+  <!-- EN: stuffed labrador -->
+  <TaxidermyLabradorRetriever.label>stuffed labrador</TaxidermyLabradorRetriever.label>
+  <!-- EN: A stuffed labrador. -->
+  <TaxidermyLabradorRetriever.description>A stuffed labrador.</TaxidermyLabradorRetriever.description>
+  <!-- EN: stuffed labrador -->
+  <TaxidermyLabradorRetrieverCorpse.label>stuffed labrador</TaxidermyLabradorRetrieverCorpse.label>
+  <!-- EN: A stuffed labrador. -->
+  <TaxidermyLabradorRetrieverCorpse.description>A stuffed labrador.</TaxidermyLabradorRetrieverCorpse.description>
+  <!-- EN: stuffed monkey -->
+  <TaxidermyMonkey.label>stuffed monkey</TaxidermyMonkey.label>
+  <!-- EN: A stuffed monkey. -->
+  <TaxidermyMonkey.description>A stuffed monkey.</TaxidermyMonkey.description>
+  <!-- EN: stuffed monkey -->
+  <TaxidermyMonkeyCorpse.label>stuffed monkey</TaxidermyMonkeyCorpse.label>
+  <!-- EN: A stuffed monkey. -->
+  <TaxidermyMonkeyCorpse.description>A stuffed monkey.</TaxidermyMonkeyCorpse.description>
+  <!-- EN: stuffed yorkshire terrier -->
+  <TaxidermyYorkshireTerrier.label>stuffed yorkshire terrier</TaxidermyYorkshireTerrier.label>
+  <!-- EN: A stuffed yorkshire terrier. -->
+  <TaxidermyYorkshireTerrier.description>A stuffed yorkshire terrier.</TaxidermyYorkshireTerrier.description>
+  <!-- EN: stuffed yorkshire terrier -->
+  <TaxidermyYorkshireTerrierCorpse.label>stuffed yorkshire terrier</TaxidermyYorkshireTerrierCorpse.label>
+  <!-- EN: A stuffed yorkshire terrier. -->
+  <TaxidermyYorkshireTerrierCorpse.description>A stuffed yorkshire terrier.</TaxidermyYorkshireTerrierCorpse.description>
+</LanguageData>

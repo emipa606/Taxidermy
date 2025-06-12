@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: stuffed arctic fox -->
+  <TaxidermyFox_Arctic.label>stuffed arctic fox</TaxidermyFox_Arctic.label>
+  <!-- EN: A stuffed arctic fox. -->
+  <TaxidermyFox_Arctic.description>A stuffed arctic fox.</TaxidermyFox_Arctic.description>
+  <!-- EN: stuffed arctic fox -->
+  <TaxidermyFox_ArcticCorpse.label>stuffed arctic fox</TaxidermyFox_ArcticCorpse.label>
+  <!-- EN: A stuffed arctic fox. -->
+  <TaxidermyFox_ArcticCorpse.description>A stuffed arctic fox.</TaxidermyFox_ArcticCorpse.description>
+  <!-- EN: stuffed fennec fox -->
+  <TaxidermyFox_Fennec.label>stuffed fennec fox</TaxidermyFox_Fennec.label>
+  <!-- EN: A stuffed fennec fox. -->
+  <TaxidermyFox_Fennec.description>A stuffed fennec fox.</TaxidermyFox_Fennec.description>
+  <!-- EN: stuffed fennec fox -->
+  <TaxidermyFox_FennecCorpse.label>stuffed fennec fox</TaxidermyFox_FennecCorpse.label>
+  <!-- EN: A stuffed fennec fox. -->
+  <TaxidermyFox_FennecCorpse.description>A stuffed fennec fox.</TaxidermyFox_FennecCorpse.description>
+  <!-- EN: stuffed red fox -->
+  <TaxidermyFox_Red.label>stuffed red fox</TaxidermyFox_Red.label>
+  <!-- EN: A stuffed red fox. -->
+  <TaxidermyFox_Red.description>A stuffed red fox.</TaxidermyFox_Red.description>
+  <!-- EN: stuffed red fox -->
+  <TaxidermyFox_RedCorpse.label>stuffed red fox</TaxidermyFox_RedCorpse.label>
+  <!-- EN: A stuffed red fox. -->
+  <TaxidermyFox_RedCorpse.description>A stuffed red fox.</TaxidermyFox_RedCorpse.description>
+  <!-- EN: stuffed arctic wolf -->
+  <TaxidermyWolf_Arctic.label>stuffed arctic wolf</TaxidermyWolf_Arctic.label>
+  <!-- EN: A stuffed arctic wolf. -->
+  <TaxidermyWolf_Arctic.description>A stuffed arctic wolf.</TaxidermyWolf_Arctic.description>
+  <!-- EN: stuffed arctic wolf -->
+  <TaxidermyWolf_ArcticCorpse.label>stuffed arctic wolf</TaxidermyWolf_ArcticCorpse.label>
+  <!-- EN: A stuffed arctic wolf. -->
+  <TaxidermyWolf_ArcticCorpse.description>A stuffed arctic wolf.</TaxidermyWolf_ArcticCorpse.description>
+  <!-- EN: stuffed timber wolf -->
+  <TaxidermyWolf_Timber.label>stuffed timber wolf</TaxidermyWolf_Timber.label>
+  <!-- EN: A stuffed timber wolf. -->
+  <TaxidermyWolf_Timber.description>A stuffed timber wolf.</TaxidermyWolf_Timber.description>
+  <!-- EN: stuffed timber wolf -->
+  <TaxidermyWolf_TimberCorpse.label>stuffed timber wolf</TaxidermyWolf_TimberCorpse.label>
+  <!-- EN: A stuffed timber wolf. -->
+  <TaxidermyWolf_TimberCorpse.description>A stuffed timber wolf.</TaxidermyWolf_TimberCorpse.description>
+</LanguageData>

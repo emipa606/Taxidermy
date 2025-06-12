@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: stuffed alpha beaver -->
+  <TaxidermyAlphabeaver.label>stuffed alpha beaver</TaxidermyAlphabeaver.label>
+  <!-- EN: A stuffed alpha beaver. -->
+  <TaxidermyAlphabeaver.description>A stuffed alpha beaver.</TaxidermyAlphabeaver.description>
+  <!-- EN: stuffed alpha beaver -->
+  <TaxidermyAlphabeaverCorpse.label>stuffed alpha beaver</TaxidermyAlphabeaverCorpse.label>
+  <!-- EN: A stuffed alpha beaver. -->
+  <TaxidermyAlphabeaverCorpse.description>A stuffed alpha beaver.</TaxidermyAlphabeaverCorpse.description>
+  <!-- EN: stuffed cobra -->
+  <TaxidermyCobra.label>stuffed cobra</TaxidermyCobra.label>
+  <!-- EN: A stuffed cobra. -->
+  <TaxidermyCobra.description>A stuffed cobra.</TaxidermyCobra.description>
+  <!-- EN: stuffed cobra -->
+  <TaxidermyCobraCorpse.label>stuffed cobra</TaxidermyCobraCorpse.label>
+  <!-- EN: A stuffed cobra. -->
+  <TaxidermyCobraCorpse.description>A stuffed cobra.</TaxidermyCobraCorpse.description>
+  <!-- EN: stuffed thrumbo -->
+  <TaxidermyThrumbo.label>stuffed thrumbo</TaxidermyThrumbo.label>
+  <!-- EN: A stuffed thrumbo. -->
+  <TaxidermyThrumbo.description>A stuffed thrumbo.</TaxidermyThrumbo.description>
+  <!-- EN: stuffed thrumbo -->
+  <TaxidermyThrumboCorpse.label>stuffed thrumbo</TaxidermyThrumboCorpse.label>
+  <!-- EN: A stuffed thrumbo. -->
+  <TaxidermyThrumboCorpse.description>A stuffed thrumbo.</TaxidermyThrumboCorpse.description>
+  <!-- EN: stuffed tortoise -->
+  <TaxidermyTortoise.label>stuffed tortoise</TaxidermyTortoise.label>
+  <!-- EN: A stuffed tortoise. -->
+  <TaxidermyTortoise.description>A stuffed tortoise.</TaxidermyTortoise.description>
+  <!-- EN: stuffed tortoise -->
+  <TaxidermyTortoiseCorpse.label>stuffed tortoise</TaxidermyTortoiseCorpse.label>
+  <!-- EN: A stuffed tortoise. -->
+  <TaxidermyTortoiseCorpse.description>A stuffed tortoise.</TaxidermyTortoiseCorpse.description>
+</LanguageData>

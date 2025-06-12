@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: stuffed alpaca -->
+  <TaxidermyAlpaca.label>stuffed alpaca</TaxidermyAlpaca.label>
+  <!-- EN: A stuffed alpaca. -->
+  <TaxidermyAlpaca.description>A stuffed alpaca.</TaxidermyAlpaca.description>
+  <!-- EN: stuffed alpaca -->
+  <TaxidermyAlpacaCorpse.label>stuffed alpaca</TaxidermyAlpacaCorpse.label>
+  <!-- EN: A stuffed alpaca. -->
+  <TaxidermyAlpacaCorpse.description>A stuffed alpaca.</TaxidermyAlpacaCorpse.description>
+  <!-- EN: stuffed capybara -->
+  <TaxidermyCapybara.label>stuffed capybara</TaxidermyCapybara.label>
+  <!-- EN: A stuffed capybara. -->
+  <TaxidermyCapybara.description>A stuffed capybara.</TaxidermyCapybara.description>
+  <!-- EN: stuffed capybara -->
+  <TaxidermyCapybaraCorpse.label>stuffed capybara</TaxidermyCapybaraCorpse.label>
+  <!-- EN: A stuffed capybara. -->
+  <TaxidermyCapybaraCorpse.description>A stuffed capybara.</TaxidermyCapybaraCorpse.description>
+  <!-- EN: stuffed megasloth -->
+  <TaxidermyMegasloth.label>stuffed megasloth</TaxidermyMegasloth.label>
+  <!-- EN: A stuffed megasloth. -->
+  <TaxidermyMegasloth.description>A stuffed megasloth.</TaxidermyMegasloth.description>
+  <!-- EN: stuffed megasloth -->
+  <TaxidermyMegaslothCorpse.label>stuffed megasloth</TaxidermyMegaslothCorpse.label>
+  <!-- EN: A stuffed megasloth. -->
+  <TaxidermyMegaslothCorpse.description>A stuffed megasloth.</TaxidermyMegaslothCorpse.description>
+  <!-- EN: stuffed sheep -->
+  <TaxidermySheep.label>stuffed sheep</TaxidermySheep.label>
+  <!-- EN: A stuffed sheep. -->
+  <TaxidermySheep.description>A stuffed sheep.</TaxidermySheep.description>
+  <!-- EN: stuffed sheep -->
+  <TaxidermySheepCorpse.label>stuffed sheep</TaxidermySheepCorpse.label>
+  <!-- EN: A stuffed sheep. -->
+  <TaxidermySheepCorpse.description>A stuffed sheep.</TaxidermySheepCorpse.description>
+</LanguageData>
